@@ -24,6 +24,7 @@ derived from this program due to their unfriendly actions, activities, and licen
 5. 静香
 6. 老步
 7. 刀霸刘涛
+8. 六维演易
 
 [justxq-link]:			https://store.steampowered.com/app/2248180/_/
 [justxq-logo]:      https://user-images.githubusercontent.com/73384062/217706511-55497939-4a95-4614-98ef-d153083d8a83.png
